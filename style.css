@@ -1,0 +1,32 @@
+.main{
+	border:solid black 1px;
+	padding:5px;
+	width:612px;
+	margin: 20px auto;
+}
+.title{
+	width: 612px;
+	height: 100px;
+	margin: auto;
+	border: 1px solid black;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 40pt;
+}
+.para{
+	border:solid black 1px;
+	width:600px;
+	margin:auto;
+	padding:5px;
+}
+#text{
+	margin-top:10px;
+	width:75%;
+}
+button{
+	margin-left:5px;
+	width:22%;
+}
+input,button,fieldset{
+	line-height:30px;
+}
